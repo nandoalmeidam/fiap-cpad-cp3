@@ -73,7 +73,7 @@ Aplicativo desenvolvido em React Native simulando um cartão de visita digital p
 
 Neste exercício foram praticados componentes básicos do React Native, exibição de imagem via `uri` e estilização utilizando `StyleSheet` para organização visual da interface.
 
-![Cartão de visita](./meu-perfil/docs/images/app-cartao-visita.jpeg)
+![Cartão de visita](./aula03-cartao-visita/meu-perfil/docs/images/app-cartao-visita.jpeg)
 
 ---
 
@@ -85,27 +85,27 @@ Neste exercício foram utilizados `useState` para controlar o contador de copos,
 
 ### Estado inicial
 
-![Inicial](./Contador-de-Hidratacao-main/docs/images/01_inicial.png)
+![Inicial](./aula04-contador-hidratacao/docs/images/01_inicial.png)
 
 ### Progresso inicial
 
-![5 copos](./Contador-de-Hidratacao-main/docs/images/02_cincoCopos.png)
+![5 copos](./aula04-contador-hidratacao/docs/images/02_cincoCopos.png)
 
 ### Meta diária atingida
 
-![8 copos](./Contador-de-Hidratacao-main/docs/images/03_oitoCopos.png)
+![8 copos](./aula04-contador-hidratacao/docs/images//03_oitoCopos.png)
 
 ### Nível avançado
 
-![10 copos](./Contador-de-Hidratacao-main/docs/images/04_dezCopos.png)
+![10 copos](./aula04-contador-hidratacao/docs/images/04_dezCopos.png)
 
 ### Desafio extra
 
-![50 copos](./Contador-de-Hidratacao-main/docs/images/05_cinquentaCopos.png)
+![50 copos](./aula04-contador-hidratacao/docs/images/05_cinquentaCopos.png)
 
 ### Reset do contador
 
-![Reset](./Contador-de-Hidratacao-main/docs/images/06_zerando.png)
+![Reset](./aula04-contador-hidratacao/docs/images/06_zerando.png)
 
 ---
 
@@ -117,15 +117,15 @@ Durante a atividade foram praticados conceitos de navegação mobile, organizaç
 
 ### Tela Inicial
 
-![Tela inicial](./App-meu-perfil-main/docs/images/01_inicio.png)
+![Tela inicial](./aula05-meu-perfil/docs/images/01_inicio.png)
 
 ### Tela de Perfil
 
-![Tela perfil](./App-meu-perfil-main/docs/images/02_perfil.png)
+![Tela perfil](./aula05-meu-perfil/docs/images/02_perfil.png)
 
 ### Navegação entre telas
 
-![Tela voltar](./App-meu-perfil-main/docs/images/03_voltar.png)
+![Tela voltar](./aula05-meu-perfil/docs/images/03_voltar.png)
 
 ---
 
@@ -137,23 +137,23 @@ Neste exercício foram utilizados `useState`, `AsyncStorage`, componentes reutil
 
 ### Tela inicial
 
-![Tela inicial](./Memo-List-Plus-main/docs/images/01_inicio.png)
+![Tela inicial](./aula06-memolist/docs/images/01_inicio.png)
 
 ### Adicionando tarefa
 
-![Adicionar tarefa](./Memo-List-Plus-main/docs/images/02_adicionarTarefa.jpeg)
+![Adicionar tarefa](./aula06-memolist/docs/images/02_adicionarTarefa.jpeg)
 
 ### Lista de tarefas
 
-![Lista tarefas](./Memo-List-Plus-main/docs/images/03_adicionarSegundaTarefa.jpeg)
+![Lista tarefas](./aula06-memolist/docs/images/03_adicionarSegundaTarefa.jpeg)
 
 ### Tarefa concluída
 
-![Tarefa concluída](./Memo-List-Plus-main/docs/images/04_tarefaConcluida.jpeg)
+![Tarefa concluída](../aula06-memolist/docs/images/04_tarefaConcluida.jpeg)
 
 ### Limpeza completa
 
-![Limpar tudo](./Memo-List-Plus-main/docs/images/05_limparTudo.jpeg)
+![Limpar tudo](./aula06-memolist/docs/images/05_limparTudo.jpeg)
 
 ---
 
@@ -165,25 +165,25 @@ Durante o exercício foram utilizados `Context API` para compartilhamento de est
 
 ### Tela inicial
 
-![Tela inicial](./mini-loja-main/docs/images/01_inicio.png)
+![Tela inicial](./aula07-mini-loja/docs/images/01_inicio.png)
 
-![Tela inicial](./mini-loja-main/docs/images/02_inicio.jpeg)
+![Tela inicial](./aula07-mini-loja/docs/images/02_inicio.jpeg)
 
 ### Adicionando itens
 
-![Item 1](./mini-loja-main/docs/images/03_adicionadoItem1.jpeg)
+![Item 1](../aula07-mini-loja/docs/images/03_adicionadoItem1.jpeg)
 
-![Item 2](./mini-loja-main/docs/images/04_adicionadoItem2.jpeg)
+![Item 2](./aula07-mini-loja/docs/images/04_adicionadoItem2.jpeg)
 
-![Item 3](./mini-loja-main/docs/images/05_adicionadoItem3.jpeg)
+![Item 3](./aula07-mini-loja/docs/images/05_adicionadoItem3.jpeg)
 
 ### Tela do carrinho
 
-![Carrinho](./mini-loja-main/docs/images/06_carrinhoComItens.jpeg)
+![Carrinho](./aula07-mini-loja/docs/images/06_carrinhoComItens.jpeg)
 
 ### Carrinho zerado
 
-![Carrinho zerado](./mini-loja-main/docs/images/08_carrinhoZerado.jpeg)
+![Carrinho zerado](./aula07-mini-loja/docs/images/08_carrinhoZerado.jpeg)
 
 ---
 
@@ -195,31 +195,31 @@ Neste exercício foram praticados `useRef`, validação de formulário, máscara
 
 ### Tela inicial
 
-![Tela inicial](./cadastro-app-main/docs/images/01_inicio.jpeg)
+![Tela inicial](./aula09-cadastro-completo/docs/images/01_inicio.jpeg)
 
 ### Validação de e-mail
 
-![Erro email](./cadastro-app-main/docs/images/02_erroEmail.jpeg)
+![Erro email](./aula09-cadastro-completo/docs/images/02_erroEmail.jpeg)
 
 ### Mostrar senha
 
-![Mostrar senha](./cadastro-app-main/docs/images/04_mostrandoSenha.jpeg)
+![Mostrar senha](./aula09-cadastro-completo/docs/images/04_mostrandoSenha.jpeg)
 
 ### Perfil selecionado
 
-![Perfil](./cadastro-app-main/docs/images/05_dadosPreenchidos.jpeg)
+![Perfil](./aula09-cadastro-completo/docs/images/05_dadosPreenchidos.jpeg)
 
 ### Cadastro válido
 
-![Cadastro válido](./cadastro-app-main/docs/images/06_dadosPreenchidosBotaoVerde.jpeg)
+![Cadastro válido](./aula09-cadastro-completo/docs/images/06_dadosPreenchidosBotaoVerde.jpeg)
 
 ### Cadastro realizado
 
-![Cadastro realizado](./cadastro-app-main/docs/images07_cadastroFinalizado.jpeg)
+![Cadastro realizado](./aula09-cadastro-completo/docs/images/07_cadastroFinalizado.jpeg)
 
 ### Campos limpos
 
-![Campos limpos](./cadastro-app-main/docs/images/08_limparCampos.jpeg)
+![Campos limpos](./aula09-cadastro-completo/docs/images/08_limparCampos.jpeg)
 
 ---
 
