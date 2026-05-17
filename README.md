@@ -2,13 +2,13 @@
 
 ## 👨‍💻 Integrante
 
-- Fernando de Almeida Godoi Martines
-- RM: 564820
-- Turma: 2CCPG
+- Fernando de Almeida Godoi Martines  
+- RM: 564820  
+- Turma: 2CCPG  
 
 ---
 
-## 📚 Sobre o Projeto
+# 📚 Sobre o Projeto
 
 Este repositório reúne os aplicativos desenvolvidos durante as aulas da disciplina **Cross-Platform Application Development**, utilizando **React Native** com **Expo**.
 
@@ -29,7 +29,7 @@ Além da implementação funcional, também foi realizada a personalização vis
 # 📂 Estrutura do Repositório
 
 | Aula | Exercício | Pasta |
-|------|-----------|-------|
+|---|---|---|
 | 03 | Cartão de Visita Digital | [aula03-cartao-visita](./aula03-cartao-visita/) |
 | 04 | Contador de Hidratação | [aula04-contador-hidratacao](./aula04-contador-hidratacao/) |
 | 05 | Meu Perfil | [aula05-meu-perfil](./aula05-meu-perfil/) |
@@ -73,7 +73,9 @@ Aplicativo desenvolvido em React Native simulando um cartão de visita digital p
 
 Neste exercício foram praticados componentes básicos do React Native, exibição de imagem via `uri` e estilização utilizando `StyleSheet` para organização visual da interface.
 
-![Cartão de visita](./aula03-cartao-visita/meu-perfil/docs/images/app-cartao-visita.jpeg)
+| Cartão de Visita |
+|---|
+| <img src="./aula03-cartao-visita/meu-perfil/docs/images/app-cartao-visita.jpeg" width="250"> |
 
 ---
 
@@ -83,29 +85,17 @@ Aplicativo simples de rastreamento de consumo de água.
 
 Neste exercício foram utilizados `useState` para controlar o contador de copos, `useEffect` para detectar quando a meta diária era atingida e estilização com `StyleSheet` para personalização visual da interface.
 
-### Estado inicial
+| Estado Inicial | Progresso Inicial |
+|---|---|
+| <img src="./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/01_inicial.png" width="250"> | <img src="./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/02_cincoCopos.png" width="250"> |
 
-![Inicial](./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/01_inicial.png)
+| Meta Atingida | Nível Avançado |
+|---|---|
+| <img src="./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/03_oitoCopos.png" width="250"> | <img src="./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/04_dezCopos.png" width="250"> |
 
-### Progresso inicial
-
-![5 copos](./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/02_cincoCopos.png)
-
-### Meta diária atingida
-
-![8 copos](./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images//03_oitoCopos.png)
-
-### Nível avançado
-
-![10 copos](./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/04_dezCopos.png)
-
-### Desafio extra
-
-![50 copos](./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/05_cinquentaCopos.png)
-
-### Reset do contador
-
-![Reset](./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/06_zerando.png)
+| Desafio Extra | Reset do Contador |
+|---|---|
+| <img src="./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/05_cinquentaCopos.png" width="250"> | <img src="./aula04-contador-hidratacao/Contador-de-Hidratacao-main/docs/images/06_zerando.png" width="250"> |
 
 ---
 
@@ -115,17 +105,13 @@ Aplicativo com navegação entre telas utilizando Expo Router.
 
 Durante a atividade foram praticados conceitos de navegação mobile, organização de layout com `Flexbox`, estilização utilizando `StyleSheet` e componentização de telas.
 
-### Tela Inicial
+| Tela Inicial | Tela de Perfil |
+|---|---|
+| <img src="./aula05-meu-perfil/App-meu-perfil-main/docs/images/01_inicio.png" width="250"> | <img src="./aula05-meu-perfil/App-meu-perfil-main/docs/images/02_perfil.png" width="250"> |
 
-![Tela inicial](./aula05-meu-perfil/App-meu-perfil-main/docs/images/01_inicio.png)
-
-### Tela de Perfil
-
-![Tela perfil](./aula05-meu-perfil/App-meu-perfil-main/docs/images/02_perfil.png)
-
-### Navegação entre telas
-
-![Tela voltar](./aula05-meu-perfil/App-meu-perfil-main/docs/images/03_voltar.png)
+| Navegação entre telas |
+|---|
+| <img src="./aula05-meu-perfil/App-meu-perfil-main/docs/images/03_voltar.png" width="250"> |
 
 ---
 
@@ -135,25 +121,17 @@ Aplicativo de gerenciamento de tarefas com persistência local.
 
 Neste exercício foram utilizados `useState`, `AsyncStorage`, componentes reutilizáveis e estilização com `StyleSheet` para criação de uma interface dinâmica e persistente.
 
-### Tela inicial
+| Tela Inicial | Adicionando Tarefa |
+|---|---|
+| <img src="./aula06-memolist/Memo-List-Plus-main/docs/images/01_inicio.png" width="250"> | <img src="./aula06-memolist/Memo-List-Plus-main/docs/images/02_adicionarTarefa.jpeg" width="250"> |
 
-![Tela inicial](./aula06-memolist/Memo-List-Plus-main/docs/images/01_inicio.png)
+| Lista de Tarefas | Tarefa Concluída |
+|---|---|
+| <img src="./aula06-memolist/Memo-List-Plus-main/docs/images/03_adicionarSegundaTarefa.jpeg" width="250"> | <img src="./aula06-memolist/Memo-List-Plus-main/docs/images/04_tarefaConcluida.jpeg" width="250"> |
 
-### Adicionando tarefa
-
-![Adicionar tarefa](./aula06-memolist/Memo-List-Plus-main/docs/images/02_adicionarTarefa.jpeg)
-
-### Lista de tarefas
-
-![Lista tarefas](./aula06-memolist/Memo-List-Plus-main/docs/images/03_adicionarSegundaTarefa.jpeg)
-
-### Tarefa concluída
-
-![Tarefa concluída](../aula06-memolist/Memo-List-Plus-main/docs/images/04_tarefaConcluida.jpeg)
-
-### Limpeza completa
-
-![Limpar tudo](./aula06-memolist/Memo-List-Plus-main/docs/images/05_limparTudo.jpeg)
+| Limpeza Completa |
+|---|
+| <img src="./aula06-memolist/Memo-List-Plus-main/docs/images/05_limparTudo.jpeg" width="250"> |
 
 ---
 
@@ -163,63 +141,41 @@ Aplicativo simulando um sistema simples de carrinho de compras.
 
 Durante o exercício foram utilizados `Context API` para compartilhamento de estado, listas dinâmicas, navegação entre telas e estilização utilizando `StyleSheet`.
 
-### Tela inicial
+| Tela Inicial | Produtos Adicionados |
+|---|---|
+| <img src="./aula07-mini-loja/mini-loja-main/docs/images/01_inicio.png" width="250"> | <img src="./aula07-mini-loja/mini-loja-main/docs/images/03_adicionadoItem1.jpeg" width="250"> |
 
-![Tela inicial](./aula07-mini-loja/mini-loja-main/docs/images/01_inicio.png)
+| Mais Produtos | Carrinho |
+|---|---|
+| <img src="./aula07-mini-loja/mini-loja-main/docs/images/05_adicionadoItem3.jpeg" width="250"> | <img src="./aula07-mini-loja/mini-loja-main/docs/images/06_carrinhoComItens.jpeg" width="250"> |
 
-![Tela inicial](./aula07-mini-loja/mini-loja-main/docs/images/02_inicio.jpeg)
-
-### Adicionando itens
-
-![Item 1](../aula07-mini-loja/mini-loja-main/docs/images/03_adicionadoItem1.jpeg)
-
-![Item 2](./aula07-mini-loja/mini-loja-main/docs/images/04_adicionadoItem2.jpeg)
-
-![Item 3](./aula07-mini-loja/mini-loja-main/docs/images/05_adicionadoItem3.jpeg)
-
-### Tela do carrinho
-
-![Carrinho](./aula07-mini-loja/mini-loja-main/docs/images/06_carrinhoComItens.jpeg)
-
-### Carrinho zerado
-
-![Carrinho zerado](./aula07-mini-loja/mini-loja-main/docs/images/08_carrinhoZerado.jpeg)
+| Carrinho Zerado |
+|---|
+| <img src="./aula07-mini-loja/mini-loja-main/docs/images/08_carrinhoZerado.jpeg" width="250"> |
 
 ---
 
 # 📋 Aula 09 — Cadastro Completo
 
-Aplicação desenvolvida em React Native simulando um sistema completo de cadastro de usuários.
+Aplicativo de cadastro desenvolvido em React Native utilizando múltiplos componentes e validações de formulário.
 
-Neste exercício foram praticados `useRef`, validação de formulário, máscaras de CPF e telefone, inputs controlados e estilização utilizando `StyleSheet` para criação de uma interface moderna e responsiva.
+Nesta atividade foram praticados conceitos de `useState`, validação de campos, manipulação de formulários, renderização condicional, componentes como `Switch`, além de estilização com `StyleSheet`.
 
-### Tela inicial
+| Tela Inicial | Validação de E-mail |
+|---|---|
+| <img src="./aula09-cadastro-completo/cadastro-app-main/docs/images/01_inicio.jpeg" width="250"> | <img src="./aula09-cadastro-completo/cadastro-app-main/docs/images/02_erroEmail.jpeg" width="250"> |
 
-![Tela inicial](./aula09-cadastro-completo/cadastro-app-main/docs/images/01_inicio.jpeg)
+| Mostrar Senha | Perfil Selecionado |
+|---|---|
+| <img src="./aula09-cadastro-completo/cadastro-app-main/docs/images/04_mostrandoSenha.jpeg" width="250"> | <img src="./aula09-cadastro-completo/cadastro-app-main/docs/images/05_dadosPreenchidos.jpeg" width="250"> |
 
-### Validação de e-mail
+| Cadastro Válido | Cadastro Finalizado |
+|---|---|
+| <img src="./aula09-cadastro-completo/cadastro-app-main/docs/images/06_dadosPreenchidosBotaoVerde.jpeg" width="250"> | <img src="./aula09-cadastro-completo/cadastro-app-main/docs/images/07_cadastroFinalizado.jpeg" width="250"> |
 
-![Erro email](./aula09-cadastro-completo/cadastro-app-main/docs/images/02_erroEmail.jpeg)
-
-### Mostrar senha
-
-![Mostrar senha](./aula09-cadastro-completo/cadastro-app-main/docs/images/04_mostrandoSenha.jpeg)
-
-### Perfil selecionado
-
-![Perfil](./aula09-cadastro-completo/cadastro-app-main/docs/images/05_dadosPreenchidos.jpeg)
-
-### Cadastro válido
-
-![Cadastro válido](./aula09-cadastro-completo/cadastro-app-main/docs/images/06_dadosPreenchidosBotaoVerde.jpeg)
-
-### Cadastro realizado
-
-![Cadastro realizado](./aula09-cadastro-completo/cadastro-app-main/docs/images/07_cadastroFinalizado.jpeg)
-
-### Campos limpos
-
-![Campos limpos](./aula09-cadastro-completo/cadastro-app-main/docs/images/08_limparCampos.jpeg)
+| Campos Limpos |
+|---|
+| <img src="./aula09-cadastro-completo/cadastro-app-main/docs/images/08_limparCampos.jpeg" width="250"> |
 
 ---
 
