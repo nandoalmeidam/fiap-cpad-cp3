@@ -73,7 +73,7 @@ Aplicativo desenvolvido em React Native simulando um cartão de visita digital p
 
 Neste exercício foram praticados componentes básicos do React Native, exibição de imagem via `uri` e estilização utilizando `StyleSheet` para organização visual da interface.
 
-![Cartão de visita](./docs/images/aula03-cartao-visita.png)
+![Cartão de visita](./meu-perfil/docs/images/aula03-cartao-visita.png)
 
 ---
 
@@ -85,27 +85,27 @@ Neste exercício foram utilizados `useState` para controlar o contador de copos,
 
 ### Estado inicial
 
-![Inicial](./docs/images/aula04-inicial.png)
+![Inicial](./Contador-de-Hidratacao-main/docs/images/aula04-inicial.png)
 
 ### Progresso inicial
 
-![5 copos](./docs/images/aula04-5copos.png)
+![5 copos](./Contador-de-Hidratacao-main/docs/images/aula04-5copos.png)
 
 ### Meta diária atingida
 
-![8 copos](./docs/images/aula04-8copos.png)
+![8 copos](./Contador-de-Hidratacao-main/docs/images/aula04-8copos.png)
 
 ### Nível avançado
 
-![10 copos](./docs/images/aula04-10copos.png)
+![10 copos](./Contador-de-Hidratacao-main/docs/images/aula04-10copos.png)
 
 ### Desafio extra
 
-![50 copos](./docs/images/aula04-50copos.png)
+![50 copos](./Contador-de-Hidratacao-main/docs/images/aula04-50copos.png)
 
 ### Reset do contador
 
-![Reset](./docs/images/aula04-reset.png)
+![Reset](./Contador-de-Hidratacao-main/docs/images/aula04-reset.png)
 
 ---
 
@@ -117,15 +117,15 @@ Durante a atividade foram praticados conceitos de navegação mobile, organizaç
 
 ### Tela Inicial
 
-![Tela inicial](./docs/images/aula05-inicio.png)
+![Tela inicial](./App-meu-perfil-main/docs/images/aula05-inicio.png)
 
 ### Tela de Perfil
 
-![Tela perfil](./docs/images/aula05-perfil.png)
+![Tela perfil](./App-meu-perfil-main/docs/images/aula05-perfil.png)
 
 ### Navegação entre telas
 
-![Tela voltar](./docs/images/aula05-voltar.png)
+![Tela voltar](./App-meu-perfil-main/docs/images/aula05-voltar.png)
 
 ---
 
@@ -137,23 +137,23 @@ Neste exercício foram utilizados `useState`, `AsyncStorage`, componentes reutil
 
 ### Tela inicial
 
-![Tela inicial](./docs/images/aula06-inicio.png)
+![Tela inicial](./Memo-List-Plus-main/docs/images/aula06-inicio.png)
 
 ### Adicionando tarefa
 
-![Adicionar tarefa](./docs/images/aula06-adicionar-tarefa.png)
+![Adicionar tarefa](./Memo-List-Plus-main/docs/images/aula06-adicionar-tarefa.png)
 
 ### Lista de tarefas
 
-![Lista tarefas](./docs/images/aula06-lista-tarefas.png)
+![Lista tarefas](./Memo-List-Plus-main/docs/images/aula06-lista-tarefas.png)
 
 ### Tarefa concluída
 
-![Tarefa concluída](./docs/images/aula06-tarefa-concluida.png)
+![Tarefa concluída](./Memo-List-Plus-main/docs/images/aula06-tarefa-concluida.png)
 
 ### Limpeza completa
 
-![Limpar tudo](./docs/images/aula06-limpar-tudo.png)
+![Limpar tudo](./Memo-List-Plus-main/docs/images/aula06-limpar-tudo.png)
 
 ---
 
@@ -165,23 +165,23 @@ Durante o exercício foram utilizados `Context API` para compartilhamento de est
 
 ### Tela inicial
 
-![Tela inicial](./docs/images/aula07-inicio.png)
+![Tela inicial](./mini-loja-main/docs/images/aula07-inicio.png)
 
 ### Adicionando itens
 
-![Item 1](./docs/images/aula07-item1.png)
+![Item 1](./mini-loja-main/docs/images/aula07-item1.png)
 
-![Item 2](./docs/images/aula07-item2.png)
+![Item 2](./mini-loja-main/docs/images/aula07-item2.png)
 
-![Item 3](./docs/images/aula07-item3.png)
+![Item 3](./mini-loja-main/docs/images/aula07-item3.png)
 
 ### Tela do carrinho
 
-![Carrinho](./docs/images/aula07-carrinho.png)
+![Carrinho](./mini-loja-main/docs/images/aula07-carrinho.png)
 
 ### Carrinho zerado
 
-![Carrinho zerado](./docs/images/aula07-carrinho-zerado.png)
+![Carrinho zerado](./mini-loja-main/docs/images/aula07-carrinho-zerado.png)
 
 ---
 
@@ -193,31 +193,31 @@ Neste exercício foram praticados `useRef`, validação de formulário, máscara
 
 ### Tela inicial
 
-![Tela inicial](./docs/images/aula09-inicio.png)
+![Tela inicial](./cadastro-app-main/docs/images/aula09-inicio.png)
 
 ### Validação de e-mail
 
-![Erro email](./docs/images/aula09-erro-email.png)
+![Erro email](./cadastro-app-main/docs/images/aula09-erro-email.png)
 
 ### Mostrar senha
 
-![Mostrar senha](./docs/images/aula09-mostrar-senha.png)
+![Mostrar senha](./cadastro-app-main/docs/images/aula09-mostrar-senha.png)
 
 ### Perfil selecionado
 
-![Perfil](./docs/images/aula09-perfil.png)
+![Perfil](./cadastro-app-main/docs/images/aula09-perfil.png)
 
 ### Cadastro válido
 
-![Cadastro válido](./docs/images/aula09-cadastro-valido.png)
+![Cadastro válido](./cadastro-app-main/docs/images/aula09-cadastro-valido.png)
 
 ### Cadastro realizado
 
-![Cadastro realizado](./docs/images/aula09-alerta.png)
+![Cadastro realizado](./cadastro-app-main/docs/images/aula09-alerta.png)
 
 ### Campos limpos
 
-![Campos limpos](./docs/images/aula09-limpo.png)
+![Campos limpos](./cadastro-app-main/docs/images/aula09-limpo.png)
 
 ---
 
